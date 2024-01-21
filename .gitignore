@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.js
+*.js.map
+*.d.ts
+
+# Build output
+/build/
+/dist/
+
+# Dependency directories
+/lib/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
