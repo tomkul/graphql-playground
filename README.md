@@ -37,5 +37,13 @@
         title
         body
       }
+      getBooks {
+        id
+        title
+        author {
+          id
+          name
+        }
+      }
     }
     ```
